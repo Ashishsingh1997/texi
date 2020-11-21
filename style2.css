@@ -1,0 +1,46 @@
+ .container-fluid{
+background-size: cover;
+background-image: url("texi3.jpg");
+width: 100% 100%;
+background-repeat: none;
+text-align: center;
+opacity: 0.9;
+padding:60px;
+
+}
+.container-fluid h2{
+color: white;
+font-size: 35px;
+}
+.container-fluid p{
+color: white;
+font-size:25px;
+}
+
+.row p{
+color: black;
+font-size: 15px;
+}
+
+
+span{
+font-size: 22px;
+padding: 1px 18px;
+background-color: #D6DF22;
+border-radius: 34px;
+}
+.main{
+background-color: white;
+border-radius: 15px;
+margin-left: 10px;
+margin-right: 10px;
+padding: 10px;
+
+}
+
+#btn{
+	background-color: #D6DF22;
+	border-style: none;
+	color: black;
+}
+
